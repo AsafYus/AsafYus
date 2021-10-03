@@ -26,7 +26,19 @@ I'm looking for full-time opportunities.
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>   
 <br />
 ----  
-🌱 I'm on track for learning more about Cryptology, because prime numbers and related algorithms have always fascinated me.
+🌱 I'm on track for learning more about Cryptology, because prime numbers and related algorithms have always fascinated me.  
+<br />
+
+----
+### Projects:
+<ol>
+<li>RSA-like-cryptosystem  
+  <br />
+ <a href="https://github.com/AsafYus/RSA-like-cryptosystem" target="_blank"> <img align="left" alt="C++" width="40x" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/RSA_Security_logo2.svg"/> </a></li>
+</ol>
+
+
+
 <!--
 **AsafYus/AsafYus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
