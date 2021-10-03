@@ -1,6 +1,6 @@
 ### Hi, I'm Asaf 👋
 ---
-[![https://www.linkedin.com/in/asaf-yusufov-7a9a17169/](https://user-images.githubusercontent.com/39189740/135748026-ee4f4225-6efa-4abb-9694-b3e11187a403.png)]
+[!https://www.linkedin.com/in/asaf-yusufov-7a9a17169/](https://user-images.githubusercontent.com/39189740/135748026-ee4f4225-6efa-4abb-9694-b3e11187a403.png)
 ---
 <!--
 **AsafYus/AsafYus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
