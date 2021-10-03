@@ -1,7 +1,14 @@
-### Hi, I'm Asaf 👋
+### Hi, I'm Asaf 👋  
+
+<br />
+Get in touch:  
+
+
+<a href="https://www.linkedin.com/in/asaf-yusufov-7a9a17169/" target="_blank"><img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/39189740/135748026-ee4f4225-6efa-4abb-9694-b3e11187a403.png" /></a>  
+<br />
 ---
 
-<a href="https://www.linkedin.com/in/asaf-yusufov-7a9a17169/" target="_blank"><img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/39189740/135748026-ee4f4225-6efa-4abb-9694-b3e11187a403.png" /></a>
+
 
 <br />
 
