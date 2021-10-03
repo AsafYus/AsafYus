@@ -12,7 +12,7 @@ Get in touch:
 
 <br />
 
-I'm a junior software engineer. I'm passionate about developing games, operating system, embedded systems,  math related libraries and much more because I love coding in C/C++.
+I'm a junior software engineer. I'm passionate about developing games, operating systems, embedded systems,  math related libraries and much more because I love coding in C/C++.
 I'm looking for full-time opportunities. 
 </p>
 
