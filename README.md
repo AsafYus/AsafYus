@@ -38,13 +38,11 @@ I'm looking for full-time opportunities.
 
 ----
 ### Projects:
-<ol>
-<li>RSA-like-cryptosystem  
-  <br />
- <a href="https://github.com/AsafYus/RSA-like-cryptosystem" target="_blank"> <img align="left" alt="C++" width="40x" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/RSA_Security_logo2.svg"/> </a></li>
-</ol>
 
+- [RSA-like-cryptosystem](https://github.com/AsafYus/RSA-like-cryptosystem)
 
+ - [spaceship-fleet-maintenance-cost-management](https://github.com/AsafYus/spaceship-fleet-maintenance-cost-management)
+ 
 
 <!--
 **AsafYus/AsafYus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
